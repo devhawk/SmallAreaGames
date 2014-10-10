@@ -1,0 +1,4 @@
+If the autorun file does not work, please open \SplashScreenEXPORT\export1.htm
+
+mac users, open that file since autorun does not work on the mac.
+
